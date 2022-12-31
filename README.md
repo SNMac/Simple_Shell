@@ -339,7 +339,7 @@ lang=EN-US>status</span><span lang=KO style='font-family:"맑은 고딕",sans-se
 lang=KO> </span><span lang=KO style='font-family:"맑은 고딕",sans-serif'>통해</span><span
 lang=KO> </span><span lang=KO style='font-family:"맑은 고딕",sans-serif'>반환하는</span><span
 lang=KO> </span><span lang=KO style='font-family:"맑은 고딕",sans-serif'>호출이다</span><span
-lang=EN-US>.<a href="#_edn1" name="_ednref1" title=""><span
+lang=EN-US>.<span
 lang=EN-US style='font-size:7.0pt'> </span><span lang=EN-US>wait() </span><span
 lang=KO style='font-family:"맑은 고딕",sans-serif'>시스템</span><span lang=KO> </span><span
 lang=KO style='font-family:"맑은 고딕",sans-serif'>호출은</span><span lang=KO> </span><span
