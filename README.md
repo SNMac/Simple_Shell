@@ -429,8 +429,6 @@ lang=KO style='font-family:"맑은 고딕",sans-serif'>컴파일</span><span lan
 lang=KO style='font-family:"맑은 고딕",sans-serif'>가능</span><span lang=KO> </span><span
 lang=EN-US>(macOS, Linux)</span></p>
 
-<p class=MsoNormal><span lang=EN-US style='font-size:14.0pt'>&nbsp;</span></p>
-
 </div>
 
 </body>
