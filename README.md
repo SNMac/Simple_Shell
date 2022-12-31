@@ -340,12 +340,7 @@ lang=KO> </span><span lang=KO style='font-family:"맑은 고딕",sans-serif'>통
 lang=KO> </span><span lang=KO style='font-family:"맑은 고딕",sans-serif'>반환하는</span><span
 lang=KO> </span><span lang=KO style='font-family:"맑은 고딕",sans-serif'>호출이다</span><span
 lang=EN-US>.<a href="#_edn1" name="_ednref1" title=""><span
-class=MsoEndnoteReference><span class=MsoEndnoteReference><span lang=EN-US
-style='font-size:10.0pt;font-family:"Calibri",sans-serif'>[i]</span></span></span></a></span><span
-lang=EN-US style='font-size:7.0pt'>(</span><span lang=KO style='font-size:7.0pt;
-font-family:"맑은 고딕",sans-serif'>마이클</span><span lang=KO style='font-size:7.0pt'>
-</span><span lang=KO style='font-size:7.0pt;font-family:"맑은 고딕",sans-serif'>커리스크</span><span
-lang=EN-US style='font-size:7.0pt'> 686) </span><span lang=EN-US>wait() </span><span
+lang=EN-US style='font-size:7.0pt'> </span><span lang=EN-US>wait() </span><span
 lang=KO style='font-family:"맑은 고딕",sans-serif'>시스템</span><span lang=KO> </span><span
 lang=KO style='font-family:"맑은 고딕",sans-serif'>호출은</span><span lang=KO> </span><span
 lang=KO style='font-family:"맑은 고딕",sans-serif'>여러</span><span lang=KO> </span><span
@@ -408,12 +403,7 @@ lang=KO> </span><span lang=KO style='font-family:"맑은 고딕",sans-serif'>반
 lang=KO> </span><span lang=KO style='font-family:"맑은 고딕",sans-serif'>정하는</span><span
 lang=KO> </span><span lang=EN-US>options</span><span lang=KO style='font-family:
 "맑은 고딕",sans-serif'>이다</span><span lang=EN-US>.<a href="#_edn2" name="_ednref2"
-title=""><span class=MsoEndnoteReference><span class=MsoEndnoteReference><span
-lang=EN-US style='font-size:10.0pt;font-family:"Calibri",sans-serif'>[ii]</span></span></span></a></span><span
-lang=EN-US style='font-size:7.0pt'>(</span><span lang=KO style='font-size:7.0pt;
-font-family:"맑은 고딕",sans-serif'>마이클</span><span lang=KO style='font-size:7.0pt'>
-</span><span lang=KO style='font-size:7.0pt;font-family:"맑은 고딕",sans-serif'>커리스크</span><span
-lang=KO style='font-size:7.0pt'> </span><span lang=EN-US style='font-size:7.0pt'>722-723)</span></p>
+title=""></p>
 
 <p class=MsoNormal style='text-autospace:ideograph-numeric ideograph-other;
 word-break:keep-all'><span lang=EN-US style='font-size:24.0pt'>&nbsp;</span></p>
