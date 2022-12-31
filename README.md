@@ -402,8 +402,7 @@ lang=KO> </span><span lang=KO style='font-family:"맑은 고딕",sans-serif'>정
 lang=KO> </span><span lang=KO style='font-family:"맑은 고딕",sans-serif'>반환할지</span><span
 lang=KO> </span><span lang=KO style='font-family:"맑은 고딕",sans-serif'>정하는</span><span
 lang=KO> </span><span lang=EN-US>options</span><span lang=KO style='font-family:
-"맑은 고딕",sans-serif'>이다</span><span lang=EN-US>.<a href="#_edn2" name="_ednref2"
-title=""></p>
+"맑은 고딕",sans-serif'>이다</span><span lang=EN-US>.</p>
 
 <p class=MsoNormal style='text-autospace:ideograph-numeric ideograph-other;
 word-break:keep-all'><span lang=EN-US style='font-size:24.0pt'>&nbsp;</span></p>
